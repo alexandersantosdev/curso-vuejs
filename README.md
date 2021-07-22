@@ -34,5 +34,8 @@
         //executado ao montar o componente - após o created
         mounted() { 
         },
-        
+
     </code>
+
+- Aula 7: Hierarquia de componentes.
+    - Criada uma hierarquia de componentes, reutilizando-os.

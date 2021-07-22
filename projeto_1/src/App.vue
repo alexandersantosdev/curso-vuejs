@@ -5,12 +5,17 @@
     </h2>
     <PrimeiroComponente />
     <LifeCycle />
+    <Pessoa/>
+    <Formulario/>
   </div>
 </template>
 
 <script>
 import PrimeiroComponente from "./components/PrimeiroComponente";
 import LifeCycle from "./components/LifeCycle";
+import Pessoa from "./components/Pessoa";
+import Formulario from "./components/Formulario";
+
 
 export default {
   name: "App",
@@ -22,6 +27,8 @@ export default {
   components: {
     PrimeiroComponente,
     LifeCycle,
+    Pessoa,
+    Formulario
   },
 };
 </script>
