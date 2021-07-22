@@ -27,9 +27,12 @@
 - Aula 6: Life cycle hooks.
     <code>
         // executado ao criar o componente
+
         created(){ 
         },
+
         //executado ao montar o componente - após o created
+        
         mounted() { 
         },
     </code>
