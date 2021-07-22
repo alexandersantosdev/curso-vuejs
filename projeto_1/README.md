@@ -1,19 +1,17 @@
 # projeto_1
 
-## Project setup
+## Setup do projeto
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
+### Compilar o projeto para desenvolvimento
 ```
-yarn build
+npm serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Compilar o projeto para produção
+```
+npm build
+```
+
