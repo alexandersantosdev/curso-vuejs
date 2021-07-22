@@ -18,13 +18,10 @@
     - Criação do primeiro componente.
 
 - Aula 5: Dados nos componentes.
-    - Passando dados ao componente utilizando a função 
-    '''
-    data(){
+    - Passando dados ao componente utilizando a função <code> data(){
         return {
             dado: ''
         }
-    }
-    '''
+    }</code>
 
 - Aula 6: Life cycle hooks.
