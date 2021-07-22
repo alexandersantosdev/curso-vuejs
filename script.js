@@ -1,6 +1,6 @@
 const app = {
-    data(){
-        return{
+    data() {
+        return {
             name: '',
             idade: '',
             input_name: '',
@@ -8,7 +8,7 @@ const app = {
         }
     },
     methods: {
-        submitForm(e){
+        submitForm(e) {
             e.preventDefault()
             this.name = this.input_name
             this.input_name = ''
