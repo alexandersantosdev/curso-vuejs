@@ -13,3 +13,6 @@
     - Acessar a pasta do projeto com <code>cd {nome_do_projeto}</code>
     - Rodar o projeto com o comando <code>npm run serve</code>
     - Acessar o navegador de internet no endereço <code>http://localhost:8080/</code>
+
+- Aula 4: Componentes.
+    - Criação do primeiro componente.
