@@ -10,8 +10,8 @@
 </template>
 
 <script>
-import InputText from "./form/InputText.vue";
-import Submit from "./form/Submit.vue";
+import InputText from "./form/InputText";
+import Submit from "./form/Submit";
 
 export default {
   name: "Formulario",
