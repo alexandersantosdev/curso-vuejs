@@ -16,3 +16,10 @@
 
 - Aula 4: Componentes.
     - Criação do primeiro componente.
+
+- Aula 5: Dados nos componentes.
+    - passando dados ao componente utilizando a função <code> data(){
+        return {
+            dado: ''
+        }
+    }</code>
