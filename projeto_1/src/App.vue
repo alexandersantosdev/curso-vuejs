@@ -1,14 +1,16 @@
 <template>
   <div>
-    <h1>
+    <h2>
       {{ title }}
-    </h1>
+    </h2>
     <PrimeiroComponente />
+    <LifeCycle />
   </div>
 </template>
 
 <script>
 import PrimeiroComponente from "./components/PrimeiroComponente";
+import LifeCycle from "./components/LifeCycle";
 
 export default {
   name: "App",
@@ -19,6 +21,7 @@ export default {
   },
   components: {
     PrimeiroComponente,
+    LifeCycle,
   },
 };
 </script>
